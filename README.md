@@ -34,6 +34,9 @@ New Transition Table: The final NFA table without any epsilon transitions.
 New Final States: The updated list of final states for the new NFA.
 
 Team:
+
 BOUFROUKH DJEMANA.
+
 GADDA MAYA LINA.
+
 BENZID OUMEIMA.
